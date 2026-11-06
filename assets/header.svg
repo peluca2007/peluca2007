@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+<style>
+ text{font-family:'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono','Courier New',monospace;font-weight:800}
+ .n{font-size:64px;letter-spacing:10px}
+ .r{fill:#e11d48;mix-blend-mode:screen;animation:gr 3.2s infinite steps(1)}
+ .g{fill:#22c55e;mix-blend-mode:screen;animation:gg 3.2s infinite steps(1)}
+ .w{fill:#f5f5f5;animation:gw 3.2s infinite steps(1)}
+ @keyframes gr{0%,86%,100%{transform:translate(0,0);opacity:0}88%{transform:translate(-6px,2px);opacity:1}91%{transform:translate(5px,-3px);opacity:1}94%{transform:translate(-3px,0);opacity:1}}
+ @keyframes gg{0%,86%,100%{transform:translate(0,0);opacity:0}88%{transform:translate(6px,-2px);opacity:1}91%{transform:translate(-4px,3px);opacity:1}94%{transform:translate(3px,1px);opacity:1}}
+ @keyframes gw{0%,86%,100%{opacity:1}89%{opacity:.35}92%{opacity:1}95%{opacity:.6}}
+ .sub{font-size:17px;font-weight:500;fill:#8b8b8b;letter-spacing:3px}
+ .scan{animation:scan 5s linear infinite}
+ @keyframes scan{from{transform:translateY(-20px)}to{transform:translateY(200px)}}
+ .cur{animation:blink 1s steps(1) infinite}
+ @keyframes blink{50%{opacity:0}}
+</style>
+<defs><pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".03"/></pattern>
+<linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e11d48" stop-opacity="0"/><stop offset="1" stop-color="#e11d48" stop-opacity=".18"/></linearGradient></defs>
+<rect width="1000" height="200" rx="12" fill="#0a0a0a"/>
+<rect width="1000" height="200" rx="12" fill="url(#lines)"/>
+<rect class="scan" x="0" y="0" width="1000" height="20" fill="url(#sg)"/>
+<text x="500" y="52" text-anchor="middle" style="font-size:14px;font-weight:500;fill:#e11d48;letter-spacing:6px">&gt; perfil carregado_</text>
+<g text-anchor="middle">
+ <text class="n r" x="500" y="122">PEDRO LUCAS</text>
+ <text class="n g" x="500" y="122">PEDRO LUCAS</text>
+ <text class="n w" x="500" y="122">PEDRO LUCAS</text>
+</g>
+<text class="sub" x="500" y="164" text-anchor="middle">back-end  ·  full stack  ·  segurança</text>
+<rect x="0" y="197" width="1000" height="3" fill="#e11d48"/>
+</svg>

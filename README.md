@@ -1,8 +1,6 @@
 <div align="center">
 
-# Pedro Lucas Sales Larini
-
-### desenvolvedor full stack em formação · back-end · web · segurança
+<img src="assets/header.svg" alt="Pedro Lucas: back-end, full stack, segurança" width="100%" />
 
 <a href="https://www.linkedin.com/in/pedro-lucas-sales-larini-7a885b1a4"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=e11d48" alt="LinkedIn" /></a>
 <a href="mailto:pedrolucas.larini@gmail.com"><img src="https://img.shields.io/badge/pedrolucas.larini@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=e11d48" alt="E-mail" /></a>
@@ -12,43 +10,15 @@
 
 ---
 
-```diff
-$ whoami
-+ Pedro Lucas Sales Larini, o Peluca
-+ Análise e Desenvolvimento de Sistemas · UTFPR · formatura em dez/2027
-+ Cornélio Procópio, PR · remoto, híbrido ou presencial na região
-+ aulas à noite, dia livre para trabalhar
-
-$ cat objetivo.txt
-- estágio, trainee ou júnior em TI
-- desenvolvimento · segurança · QA · dados · infraestrutura
-```
+<div align="center">
+<img src="assets/terminal.svg" alt="Terminal: Pedro Lucas Sales Larini, o Peluca. ADS na UTFPR, formatura dez/2027. Node.js, Express, PostgreSQL, React, Next.js, Java, Linux. Aberto a estágio, trainee e júnior em TI, remoto, híbrido ou presencial no norte do Paraná." width="100%" />
+</div>
 
 Gosto de entender o sistema inteiro, do banco de dados à tela. Aprendo construindo: quase tudo aqui começou como uma ideia solta e virou projeto.
 
 ## Stack
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=e11d48" />
-<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=e11d48" />
-<img src="https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=e11d48" />
-<img src="https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=e11d48" />
-<img src="https://img.shields.io/badge/Luau-0d0d0d?style=flat-square&logo=roblox&logoColor=e11d48" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=22c55e" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=e11d48" />
-<img src="https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=e11d48" />
-<img src="https://img.shields.io/badge/Docker_(noções)-0d0d0d?style=flat-square&logo=docker&logoColor=e11d48" />
-</p>
+<img src="assets/stack.svg" alt="JavaScript, TypeScript, Node.js, Express, PostgreSQL, MySQL, React, Next.js, Vite, Java, C, Luau, Git, Linux, Docker, PWA" width="100%" />
 
 ## Projetos em destaque
 
